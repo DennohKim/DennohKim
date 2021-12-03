@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
   
 
-      <a href="https://www.twitter.com/mbiebuz" target="_blank"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" width="400" height="auto" /></a>
+<a href="https://www.twitter.com/mbiebuz" target="_blank"><img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/34e69eb61a7bd8dea1c957a8b82605a7.gif" width="400" height="auto" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dennohkim)](https://github.com/dennohkim/github-readme-stats)
