@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Dennis Kimathi alias Chizaa</h1>
 <h3 align="left">A passionate fullstack developer from Kenya.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dennohkim" alt="dennohkim" /></a> </p>
 
 - 🔭 I’m currently working on [a job board application](https://github.com/DennohKim/gh-jobs)
 
