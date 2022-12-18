@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [solidity](https://github.com/DennohKim/nft-marketplace-polygon)
 
-- 👨‍💻 All of my projects are available at [denniskimathi.dev](denniskimathi.dev)
+- 👨‍💻 All of my projects are available at [denniskimathi.dev](https://denniskimathi.dev)
 
 - 💬 Ask me about **react, UI Design with Figma**
 
