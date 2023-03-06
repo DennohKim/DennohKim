@@ -2,11 +2,11 @@
 <h3 align="left">A passionate fullstack developer from Kenya.</h3>
 
 
-- 🔭 I’m currently working on [Token Swap App](https://github.com/DennohKim/celo-dex)
+- 🔭 I’m currently working on [Recruitment Portal](https://github.com/DennohKim/recruitment-portal)
 
 - 🌱 I’m currently learning **Typescript, Prisma, NextJS**
 
-- 👯 I’m looking to collaborate on [valfo](https://github.com/DennohKim/react-valfo-project)
+- 👯 I’m looking to collaborate on [Recruitment Portal](https://github.com/DennohKim/recruitment-portal)
 
 - 🤝 I’m looking for help with [solidity](https://github.com/DennohKim/nft-marketplace-polygon)
 
