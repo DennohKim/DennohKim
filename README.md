@@ -2,9 +2,9 @@
 <h3 align="left">A passionate fullstack and blockchain developer from Kenya.</h3>
 
 
-- 🔭 I’m currently working on [Recruitment Portal](https://github.com/DennohKim/recruitment-portal)
+- 🔭 I’m currently working on [chamaa](https://github.com/DennohKim/social-saving-pool-bwc4)
 
-- 🌱 I’m currently learning **Typescript, Prisma, NextJS**
+- 🌱 I’m currently learning **Typescript, Go, Rust**
 
 - 👯 I’m looking to collaborate on [Recruitment Portal](https://github.com/DennohKim/recruitment-portal)
 
