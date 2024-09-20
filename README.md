@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [denniskimathi.dev](https://denniskimathi.dev)
 
-- 💬 Ask me about **react, nextjs, UI Design with Figma**
+- 💬 Ask me about **react, nextjs, UI Design with Figma, blockchain development**
 
 - 📫 How to reach me **kimathidennis38@gmail.com**
 
