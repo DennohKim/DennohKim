@@ -1,13 +1,12 @@
 <h1 align="left">Hi 👋, I'm Dennis Kimathi alias Chizaa</h1>
+
 <h3 align="left">A passionate fullstack and blockchain developer from Kenya.</h3>
 
-- 👨‍💻 All of my projects are available at [denniskimathi.dev](https://denniskimathi.dev)
+- 👨‍💻 All of my projects are available at [cradlelabs.io](https://cradlelabs.io)
 
 - 💬 Ask me about **react, nextjs, UI Design with Figma, blockchain development**
 
-- 📫 How to reach me **kimathidennis38@gmail.com**
-
-- 📄 Know about my experiences [https://resume.showwcase.com/dennohkim.pdf](https://resume.showwcase.com/dennohkim.pdf)
+- 📫 How to reach me **hello@cradlelabs.io**
 
 - ⚡ Fun fact **Interested in archaeoastronomy.**
 
